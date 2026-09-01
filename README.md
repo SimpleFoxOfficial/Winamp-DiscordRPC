@@ -4,13 +4,7 @@ A Winamp general purpose plugin that publishes the current track to Discord as a
 Rich Presence status - with **album cover art** and a **Spotify-style progress
 bar**.
 
-```
-        ┌──────────────┐   Listening to Winamp
-        │              │   Bohemian Rhapsody
-        │  cover art   │   Queen
-        │              │   ──────●───────────────
-        └──────────────┘   0:45              5:54
-```
+![alt text](example_screenshot.png)
 
 ## Why not just use the existing plugins
 
