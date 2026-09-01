@@ -131,6 +131,10 @@ under **Rich Presence -> Art Assets** in your Discord application. Same for the
 Configured through the dialog, and stored in
 `<Winamp settings dir>\Plugins\gen_discord_rpc.ini`.
 
+![settings step 1](settings_step01.png)
+![settings step 2](settings_step02.png)
+
+
 | Setting | Default | Notes |
 |---|---|---|
 | Discord application ID | *(none)* | Required. |
