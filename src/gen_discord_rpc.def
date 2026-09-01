@@ -1,0 +1,5 @@
+LIBRARY gen_discord_rpc
+EXPORTS
+    ; Winamp looks this symbol up by its exact, undecorated name. A .def file
+    ; guarantees that regardless of calling convention or compiler settings.
+    winampGetGeneralPurposePlugin
